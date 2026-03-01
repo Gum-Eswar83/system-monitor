@@ -1,5 +1,8 @@
 # 🚀 Dockerized System Monitoring Tool (Python + Docker)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+
 ## 📌 Project Overview
 
 This project is a real-time CLI-based System Monitoring Tool built using Python and containerized using Docker.
